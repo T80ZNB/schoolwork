@@ -9,8 +9,17 @@
 
 p {
 	color: maroon;
+	 font-style: italic;
 }
 p {
 	font-family: arial;
 	color: maroon;
+}
+body{
+	background-color: rgb(111, 117, 65);
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+
 }
