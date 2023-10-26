@@ -9,6 +9,10 @@ font-size: 12px;
 
 body{
 font-family: Verdana, Geneva, Arial;
+padding:0px;
+margin: 0px;
+
+
 }
 
 h1{
@@ -24,4 +28,10 @@ border-bottom: thin dotted #888888;
 
 blockquote{
 font-style: italic;
+}
+
+*{
+padding:0px;
+margin:0px;
+
 }
