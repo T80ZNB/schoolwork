@@ -44,13 +44,12 @@ margin-right: 250px;
 }
 .elixirs{
  width: 200px;
- padding-right: 20px;
- padding-bottom: 20px;
- padding-left:20px;
  margin-left:20px;
  background-image: url(images/cocktail.gif);
  background-repeat: repeat-x;
  text-align: center;
+ line-height: 1em;
+ padding:0px,20px,20px;
 }
 
 .elixirs h2{
@@ -58,4 +57,17 @@ margin-right: 250px;
 }
 .elixirs h3{
 color:#d12c47;
+}
+.cd{
+font-style: italic;
+}
+.elixirs a:link{
+ color:#007e7e
+}
+.elixirs a:visited{
+ color:#333333;
+}
+.elixirs a:hover{
+background: #f88396;
+color:#0d5333
 }
