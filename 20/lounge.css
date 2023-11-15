@@ -4,14 +4,12 @@ body  {
      line-height: 1.6em;
 }
 
-h1,h2  {
+  h1,h2  {
   color:#007e7e;
-  font-weight: 600;
 }
 
-h1 {
+  h1 {
  font-size:1.5em;
- font-weight: 200;
 }
 
 h2 {
@@ -19,12 +17,12 @@ h2 {
  
 }
 
-body {
+  body {
 margin: 0px;
 padding:0px;
 
 }
-.guarantee {
+  .guarantee {
   border-color:        white;
   border-width:        1px;
   border-style:        dashed;
@@ -73,3 +71,4 @@ font-style: italic;
 background: #f88396;
 color:#0d5333
 }
+
