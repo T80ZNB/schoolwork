@@ -1,0 +1,12 @@
+.title{
+background-color: rgb(228, 227, 227);
+
+
+}
+
+.video{
+float:right;
+display:table-cell;
+vertical-align: top;
+padding:          15px;
+}
