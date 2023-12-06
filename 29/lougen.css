@@ -1,12 +1,23 @@
 .title{
 background-color: rgb(228, 227, 227);
-
+ font-size:        105%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+  height: 100px;
+    /*不设置宽，默认占整行*/
+    margin-right:110px;
 
 }
 
 .video{
-float:right;
-display:table-cell;
-vertical-align: top;
-padding:          15px;
+position:absolute; /*右栏定位过去*/
+    top:100px;
+    right: 100px;
+    background-color:#fcc;
+    width:100px;
+    height:50px;
 }
+*{
+     padding:0px;
+     margin:0px;
+ }
