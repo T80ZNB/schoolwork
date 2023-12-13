@@ -1,0 +1,35 @@
+.flex {
+    display: inline-flex;
+   flex:space-between; 
+   padding: 0px;
+}
+.font{
+    font-weight: 500;
+    line-height: 1.2;
+}
+.one{
+height:400px;
+flex:0 0 100px;
+margin:0 10px;
+}
+.two{
+height:400px;
+flex: 0 0 100px;
+margin:0 10px;
+
+}
+.three{
+height:400px;
+flex:0 0 100px;
+margin:0 10px;
+}
+.four{
+height:400px;
+flex:0 0 100px;
+margin:0 10px;
+}
+
+
+.fon{
+color:#869130;
+}

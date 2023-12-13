@@ -11,13 +11,12 @@ background-color: rgb(228, 227, 227);
 
 .video{
 position:absolute; /*右栏定位过去*/
-    top:100px;
+    top:400px;
     right: 100px;
     background-color:#fcc;
-    width:100px;
-    height:50px;
+    margin-left: 30px;
 }
-*{
-     padding:0px;
-     margin:0px;
- }
+.img{
+width: 40px;
+height: 40px;
+}
