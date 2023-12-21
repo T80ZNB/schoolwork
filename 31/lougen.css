@@ -42,3 +42,26 @@ width: 100px;
 height:300px;
 
 }
+.ziti{
+font-family:var(--font-roboto-bold);
+margin-block-end: 15px;
+ font-weight: bold;
+ word-spacing: 5px
+}
+
+.ziti{
+letter-spacing: 0.5px;
+
+}
+
+
+a:hover{
+  text-decoration: underline;
+  font-size: 20px;
+  color: #000;
+  
+}
+
+.icon{
+float:right;
+}
